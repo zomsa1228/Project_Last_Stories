@@ -1,0 +1,205 @@
+
+[
+    {   "Category": "main_Character",
+        "Title":"Crystala_of_Rhodesia",
+        "Character":
+        [
+            { 
+                "id" : 1,  
+                "name" : "Rozunda", 
+                "family_name" : "methli", 
+                "age":16, 
+                "gender":"female",
+                "born":"Eltania"
+            },
+            
+            { 
+                "id" : 2,  
+                "name" : "Shaloth", 
+                "family_name" : "Lavan", 
+                "age":12, 
+                "gender":"male",
+                "born":"Rhodesia"
+            },
+            
+            { 
+                "id" : 3,  
+                "name" : "Roimy", 
+                "family_name" : "Zomsa", 
+                "age":17, 
+                "gender":"male",
+                "born":"Rhodesia"
+            },
+            
+            { 
+                "id" : 4,  
+                "name" : "Fathnel", 
+                "family_name" : "Leadan", 
+                "age":24, 
+                "gender":"male",
+                "born":"Rhodesia"
+            },
+            
+            { 
+                "id" : 5,  
+                "name" : "Silvla", 
+                "family_name" : "White", 
+                "age":15, 
+                "gender":"female",
+                "born":"Rhodesia"
+            },
+            
+            { 
+                "id" : 6,  
+                "name" : "Lenathy", 
+                "middle_name" : "Lux", 
+                "family_name" : "Felnathl", 
+                "age":15, 
+                "gender":"female",
+                "born":"Rhodesia"
+            }
+        ]
+    },
+    
+    {
+        "Category": "Sub_Character",
+        "Title":"Crystala_of_Rhodesia",
+        "Character":
+        [
+            { 
+                "id" : 1,  
+                "name" : "Letly",
+                "gender":"male"
+            },
+        
+            { 
+                "id" : 2,  
+                "name" : "Lita",
+                "family_name" : "Velasky", 
+                "gender":"None"
+            },
+        
+            { 
+                "id" : 3,  
+                "name" : "静譜",
+                "family_name" : "無堂",
+                "gender":"male"
+            },
+        
+            { 
+                "id" : 4,  
+                "name" : "Felimisia", 
+                "family_name" : "methli", 
+                "gender":"male"
+            }
+        ]
+    },
+
+    {   "Category": "main_Character",
+        "Title":"Last_of_grandalsia",
+        "Character":
+        [
+            { 
+                "id" : 1,  
+                "name" : "Rozunda", 
+                "family_name" : "methli", 
+                "age":26, 
+                "gender":"female",
+                "born":"Eltania",
+                "member":"Crystal_Alliance"
+            },
+            
+            { 
+                "id" : 2,  
+                "name" : "Shaloth", 
+                "family_name" : "Lavan", 
+                "age":22, 
+                "gender":"male",
+                "born":"Old_Rhodesia",
+                "member":"Crystal_Alliance"
+            },
+            
+            { 
+                "id" : 3,  
+                "name" : "Roimy", 
+                "family_name" : "Zomsa", 
+                "age":27, 
+                "gender":"male",
+                "born":"Old_Rhodesia",
+                "member":"Crystal_Alliance"
+            },
+            
+            { 
+                "id" : 4,  
+                "name" : "Fathnel", 
+                "family_name" : "Leadan", 
+                "age":34, 
+                "gender":"male",
+                "born":"Old_Rhodesia",
+                "member":"Crystal_Alliance"
+            },
+            
+            { 
+                "id" : 5,  
+                "name" : "Silvla", 
+                "family_name" : "White", 
+                "age":25, 
+                "gender":"female",
+                "born":"Old_Rhodesia",
+                "member":"Crystal_Alliance"
+            },
+            
+            { 
+                "id" : 6,  
+                "name" : "Lenathy", 
+                "middle_name" : "Lux", 
+                "family_name" : "Felnathl", 
+                "age":20, 
+                "gender":"female",
+                "born":"Old_Rhodesia",
+                "member":"Crystal_Alliance"
+            },
+            
+            { 
+                "id" : 7,  
+                "name" : "Shrnath", 
+                "family_name" : "methli", 
+                "age":16, 
+                "gender":"male",
+                "born":"Rhodesia"
+            },
+            
+            { 
+                "id" : 5,  
+                "name" : "Lina", 
+                "family_name" : "methli", 
+                "age":24, 
+                "gender":"female",
+                "born":"Unknown"
+            },
+            
+            { 
+                "id" : 5,  
+                "name" : "Lumen", 
+                "family_name" : "Lavan", 
+                "age":20, 
+                "gender":"male",
+                "born":"Sofia"
+            }
+        ]
+    },
+    
+    {
+        "Category": "Sub_Character",
+        "Title":"Last_of_grandalsia",
+        "Character":
+        [
+            { 
+                "id" : 1,  
+                "name" : "Asha",
+                "family_name" : "Shelim", 
+                "gender":"female"
+            }
+        ]
+    }
+]
